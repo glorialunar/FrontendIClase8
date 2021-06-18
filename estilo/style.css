@@ -1,0 +1,65 @@
+/*
+=> Fondos
+=> Iconos
+=> Fuentes
+*/
+
+header {
+    background-image: url('../img/banner.jpg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-color: blue;
+    height: 200px;
+    background-size: cover;
+    background-attachment:  fixed;
+}
+
+.fab {
+    font-size: 40px;
+    color: white;
+    background-color: #272829;
+}
+
+footer p {
+    text-align: center;
+}
+
+
+.estudio{
+    padding-left: 80px;
+    margin-top: 1px;
+}
+
+h1{
+    text-align: center;
+    color:  #005677;
+    font-family:'Courier New', Courier, monospace;
+    line-height: 29,64px;
+    font-family: 'Oswald', sans-serif, 'Roboto', sans-serif;
+    
+}
+
+h2{
+    background-color:#C4C4C4;
+    color: #005677;
+}
+
+footer{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 700px;
+    line-height: 16,94px;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color:#272829;
+
+}
+
+body{
+    font-family: font-family: 'PT Sans', sans-serif;;
+}
+
+p{
+    text-align: justify;
+}
